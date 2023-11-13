@@ -16,4 +16,3 @@
 ### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
 
 java -jar RepoSense.jar --repos https://github.com/connext/xERC20.git
-
